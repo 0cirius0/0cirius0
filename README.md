@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Aditya
 
-I love breaking stuff, but not only breaking I also like to build 🔨 stuff that breaks some other stuff. Sounds cool isn't it, but people say it is just called automation.😒
+I love breaking stuff, but not only breaking I also like to build 🔨 stuff that breaks some other stuff. Sounds cool isn't it? But people say it is just called automation.😒
 
 #### Know more about me
 - I pop shells in machines ⛓️
