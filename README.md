@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋, I'm Aditya
 
-<!--
-**0cirius0/0cirius0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love breaking stuff, but not only breaking I also like to build 🔨 stuff that breaks some other stuff. Sounds cool isn't it, but people say it is just called automation 😒.
 
-Here are some ideas to get you started:
+##Know more about me
+- I pop shells in machines ⛓️
+- Capture flags in CTFs ⛳ 
+- Hunt Security Bugs 🪲
+- Help others in getting started 💻
+- Contribute to security community 💗(Give-Take kinda relationship)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wanna read my blogs, about [Bug Hunting](https://cirius.medium.com) or solving [Machines](https://0cirius0.github.io/writeup)
+
+Wanna discuss 💬 anything related to infosec => **HIT ME UP**
+
+Phissh, I forgot to tell you that I am a Linux freak 👨‍💻, sometimes I break stuff in my OS and then google several hours just to get that shot of Dopamine after fixing it. 😄
+
+
+
+
